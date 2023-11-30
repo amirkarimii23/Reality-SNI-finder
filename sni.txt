@@ -108,3 +108,5 @@ discord.com
 cloudflare-dns.com
 discord.com
 telewebion.com
+leipzig.de
+ansa.it
